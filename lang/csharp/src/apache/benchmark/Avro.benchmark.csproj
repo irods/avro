@@ -46,7 +46,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="schema\**" CopyToOutputDirectory="PreserveNewest"/>
+    <None Include="schema\**" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
 </Project>
